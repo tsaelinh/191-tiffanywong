@@ -26,3 +26,17 @@ Date:   Thu Jan 23 23:21:40 2020 -0800
     Initial commit
 
 4. What does the output from git status look like now?
+
+tsaelinh:basic-commits tsaelinh$ vi test.txt
+tsaelinh:basic-commits tsaelinh$ git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	test.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+6. How does git status look like now?
