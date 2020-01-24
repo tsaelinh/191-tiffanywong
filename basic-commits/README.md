@@ -40,3 +40,16 @@ Untracked files:
 nothing added to commit but untracked files present (use "git add" to track)
 
 6. How does git status look like now?
+
+tsaelinh:basic-commits tsaelinh$ git add --all
+tsaelinh:basic-commits tsaelinh$ git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+	modified:   README.md
+	new file:   test.txt
+
+8. How does git status look like now?
